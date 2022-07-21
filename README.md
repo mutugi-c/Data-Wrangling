@@ -3,13 +3,13 @@
 <h1 align="left">Description</h1>
 
 <p>
-This project transforms and maps data froma 'raw' form with the intention of making it appropriate for different purposes such as data analysis.
+This project transforms and maps data from a 'raw' form with the intention of making it appropriate for different purposes such as data analysis.
 
 The steps involved include:
   - Downloading data from the web to R.
   - Wide to long format conversion.
   - Plain table to simple feature conversion.
-  - Spatial join.
+  - Spatial joins.
   - Aggregation.
   - Plotting.
 </p>
