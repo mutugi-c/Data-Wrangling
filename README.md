@@ -15,6 +15,6 @@ The steps involved include:
 </p>
   
 <p align="center">
-
+NB: There was no data for the municipalities in pink.
   <img width="2000" src="https://github.com/mutugi-c/Data-Wrangling/blob/main/pigs_in_Estonia.png">
 </p>
